@@ -1,0 +1,22 @@
+.background {
+  background: #BDE0DF center no-repeat url("images/realtor-logo-v2.svg");
+  background-origin: content-box;
+  background-size: 300px 64px;
+}
+
+.logo {
+  background-image: url(logo.png);
+}
+
+.progressBar {
+  background-color: #185d65;
+}
+
+.splash {
+  background-image: url(images/realtor-logo-v2.svg);
+}
+
+.watermark {
+  background-image: url(images/app_icon.png);
+  background-size: 57px 57px;
+}
